@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Israel Siqueira 👋
 
-<!--
-**Wallisbr/Wallisbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação, apaixonado por Python e automação.
+Morador de Itaupuaçu, RJ 🌊
 
-Here are some ideas to get you started:
+## 🐍 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente aprendendo **Python** e desenvolvimento de software
+- 🎯 Foco em automação, scripts úteis e projetos práticos
+- ✈️ Apaixonado por simulação de voo (DCS World)
+- 🌊 Praia é meu segundo escritório
+
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📌 Projetos em destaque
+
+> Em construção... novos projetos chegando em breve 🚀
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
