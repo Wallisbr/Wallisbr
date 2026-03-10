@@ -20,7 +20,9 @@ Morador de Itaupuaçu, RJ 🌊
 
 ## 📌 Projetos em destaque
 
-> Em construção... novos projetos chegando em breve 🚀
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [📊 python-weight-tracker](https://github.com/Wallisbr/python-weight-tracker) | Tracker de evolução de peso com registro em CSV e gráficos | Python, CSV, Matplotlib |
 
 ## 📫 Contato
 
