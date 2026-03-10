@@ -24,9 +24,9 @@ Morador de Itaupuaçu, RJ 🌊
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [💈 barber-booking-api](https://github.com/Wallisbr/barber-booking-api) | API REST para agendamento de barbearia com cadastro de clientes e horários | Python, FastAPI, SQLite |
-| [📊 python-weight-tracker](https://github.com/Wallisbr/python-weight-tracker) | Tracker de evolução de peso com registro em CSV e gráficos | Python, CSV, Matplotlib |
-| [🥩 python-macro-calculator](https://github.com/Wallisbr/python-macro-calculator) | Calculadora de macronutrientes com modos Cutting, Bulking e Manutenção | Python, CSV |
+| [💈 barber-booking-api](https://github.com/IsraelSiq/barber-booking-api) | API REST para agendamento de barbearia com cadastro de clientes e horários | Python, FastAPI, SQLite |
+| [📊 python-weight-tracker](https://github.com/IsraelSiq/python-weight-tracker) | Tracker de evolução de peso com registro em CSV e gráficos | Python, CSV, Matplotlib |
+| [🥩 python-macro-calculator](https://github.com/IsraelSiq/python-macro-calculator) | Calculadora de macronutrientes com modos Cutting, Bulking e Manutenção | Python, CSV |
 
 ## 📫 Contato
 
